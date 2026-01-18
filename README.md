@@ -57,7 +57,7 @@ Tôi là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý (MIS)**,
 - **Mục tiêu:** Trở thành một **Business Analyst** chuyên nghiệp, sử dụng dữ liệu để hỗ trợ ra quyết định chiến lược.
 - **Tư duy:** "Công nghệ là công cụ, Giá trị kinh doanh là đích đến."
 
-#### 📂 Dự án Tiêu biểu
+#### Dự án Tiêu biểu
 
 **1. [Hệ thống Nền tảng Nhạc số (Digital Music Platform)](LINK_REPO_WEB_NHAC_CUA_BAN)**
 *Hệ thống quản lý nội dung số & Trải nghiệm người dùng*
@@ -73,7 +73,7 @@ Tôi là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý (MIS)**,
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/nhinguyenly" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
