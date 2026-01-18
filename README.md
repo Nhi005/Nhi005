@@ -75,12 +75,14 @@ Tôi là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý (MIS)**,
 
 ### 📫 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/nhinguyenly" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/nhinguyenly" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="mailto:nhinguyenw05@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-</a>
+  <a href="mailto:nhinguyenw05@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
+**📧 Email:** nhinguyenw05@gmail.com
 
