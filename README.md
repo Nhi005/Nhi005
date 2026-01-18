@@ -49,7 +49,7 @@ I am a senior student majoring in **Management Information Systems (MIS)** with 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🇻🇳 Vietnamese Version (Dành cho Nhà tuyển dụng Việt Nam)
+### 🇻🇳 Vietnamese Version 
 
 **Giới thiệu:**
 Tôi là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý (MIS)**, tập trung vào lĩnh vực **Chuyển đổi số** và **Phân tích dữ liệu kinh doanh**. Tôi đam mê việc kết hợp công nghệ để giải quyết các bài toán thực tế của doanh nghiệp.
