@@ -36,7 +36,7 @@ I am a senior student majoring in **Management Information Systems (MIS)** with 
 - **Role:** Full-stack Developer (Database Architecture & UI/UX Design).
 - **Tech Stack:** PHP, MySQL (WAMP), HTML5/CSS3.
 
-#### [Customer Churn Prediction](LINK_REPO_ML_CUA_BAN)
+#### [Customer Churn Prediction](https://github.com/Nhi005/customer-churn-prediction)
 *Data-Driven Customer Retention Strategy*
 - **Problem:** Identifying customers likely to cancel the service to optimize marketing spend.
 - **Solution:** Built a classification model using historical customer data to predict churn risk.
@@ -49,29 +49,6 @@ I am a senior student majoring in **Management Information Systems (MIS)** with 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🇻🇳 Vietnamese Version 
-
-**Giới thiệu:**
-Tôi là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý (MIS)**, tập trung vào lĩnh vực **Chuyển đổi số** và **Phân tích dữ liệu kinh doanh**. Tôi đam mê việc kết hợp công nghệ để giải quyết các bài toán thực tế của doanh nghiệp.
-
-- **Mục tiêu:** Trở thành một **Business Analyst** chuyên nghiệp, sử dụng dữ liệu để hỗ trợ ra quyết định chiến lược.
-- **Tư duy:** "Công nghệ là công cụ, Giá trị kinh doanh là đích đến."
-
-#### Dự án Tiêu biểu
-
-**1. [Hệ thống Nền tảng Nhạc số (Digital Music Platform)](LINK_REPO_WEB_NHAC_CUA_BAN)**
-*Hệ thống quản lý nội dung số & Trải nghiệm người dùng*
-- **Mô tả:** Xây dựng website nghe nhạc trực tuyến, mô phỏng quy trình vận hành và quản lý dữ liệu bài hát/người dùng.
-- **Vai trò:** Thiết kế CSDL (MySQL) và Xây dựng giao diện/chức năng (PHP).
-- **Giá trị:** Thể hiện tư duy xây dựng hệ thống thông tin hoàn chỉnh từ Backend đến Frontend.
-
-**2. [Chiến lược Giữ chân Khách hàng (Customer Retention)](LINK_REPO_ML_CUA_BAN)**
-*Ứng dụng Machine Learning trong Chuyển đổi số*
-- **Bài toán:** Phân tích dữ liệu lịch sử để dự báo khách hàng có nguy cơ rời bỏ dịch vụ.
-- **Giải pháp:** Xây dựng mô hình học máy giúp bộ phận Sales khoanh vùng khách hàng rủi ro cao.
-- **Kết quả:** Cung cấp Insight quan trọng về hành vi khách hàng để tối ưu hóa chiến lược kinh doanh.
-
----
 
 ### Connect with me
 <p align="left">
