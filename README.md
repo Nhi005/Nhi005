@@ -14,9 +14,7 @@ I am a senior student majoring in **Management Information Systems (MIS)** with 
 
 **Business Intelligence & Management:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black" alt="PowerBI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 
@@ -86,6 +84,3 @@ Tôi là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý (MIS)**,
 </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nhi005&show_icons=true&theme=radical&hide_border=true" alt="Nhi005 Stats" />
-</p>
