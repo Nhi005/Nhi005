@@ -84,5 +84,5 @@ Tôi là sinh viên chuyên ngành **Hệ thống Thông tin Quản lý (MIS)**,
   </a>
 </p>
 
-**📧 Email:** nhinguyenw05@gmail.com
+**Email:** nhinguyenw05@gmail.com
 
