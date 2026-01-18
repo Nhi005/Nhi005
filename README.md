@@ -10,7 +10,7 @@ I am a senior student majoring in **Management Information Systems (MIS)** with 
 
 ---
 
-### 🛠 Tech Stack & Toolkit
+### Tech Stack & Toolkit
 
 **Business Intelligence & Management:**
 <p align="left">
@@ -28,7 +28,7 @@ I am a senior student majoring in **Management Information Systems (MIS)** with 
 
 ---
 
-### 🚀 Key Projects
+### Key Projects
 
 #### [Digital Music Platform System](LINK_REPO_WEB_NHAC_CUA_BAN)
 *A Web-based Content Management System (CMS) for Digital Media*
